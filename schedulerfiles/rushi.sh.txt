@@ -1,0 +1,1 @@
+created new script named as rushi.sh
