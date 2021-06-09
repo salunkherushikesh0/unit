@@ -1,2 +1,3 @@
 created another script named as salunkhe.sh
 updated status: finally script ran successfully
+committ 3rd time
